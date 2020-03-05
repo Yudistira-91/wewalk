@@ -1,2 +1,3 @@
 # wewalk
-bot wewalk penghasil 
+bot wewalk 
+Aplikasi Wewalk Pencari coin 
